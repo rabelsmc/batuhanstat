@@ -1,5 +1,5 @@
 # Genel açıklama
-Batuhan ST-AT altyapısı genellikle topluluk sunuculara yönelik tasarlanmıştır. Haftalık ve Yıllık olarak Ses, Metin kanalları sıralamasını .stat ve .top komutları olarak gösterir.
+Batuhan STAT altyapısı genellikle topluluk sunuculara yönelik tasarlanmıştır. Haftalık ve Yıllık olarak Ses, Metin kanalları sıralamasını .stat ve .top komutları olarak gösterir.
 
 # Komut açıklama
 .stats - Komutu kullanan, bahsedilen kullanıcının istatistiğini ses ve metin kanalı olarak gösterir.
